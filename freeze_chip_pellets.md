@@ -1,10 +1,10 @@
 ##Fix and Freeze Cell Pellets for ChIP
 Version 1.0    #auto-increment here would be cool
-###Date: 
+**Date:** 
 
-Cell Line: 
-Passage: 
-Fixative: 
+**Cell Line**: 
+**Passage**: 
+**Fixative**: 
 Volumes below are based on 15cm dish - adjust to if necessary. 
 As written this protocol works well to fix SWI/SNF. 
 
