@@ -1,6 +1,7 @@
 ##Fix and Freeze Cell Pellets for ChIP
-Version #autochange me after new saves
-#Date: 
+Version 1.0    #auto-increment here would be cool
+###Date: 
+
 Cell Line: 
 Passage: 
 Fixative: 
