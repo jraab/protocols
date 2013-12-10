@@ -5,11 +5,11 @@ ChIP From Frozen Pellets - MNase Protocol (Full)
 **Chromatin Prep**  
 
 **Prepare Dynal Beads**  
-    1. Mix 25ul A and 25uL G beads per IP (1e7 cells)   
+    1. Mix 25ul A and 25uL G beads per IP (1e7 cells)
     2. Wash beads 3X with PBS + 0.5% BSA  
     3. R/S in 400ul PBS + 0.5% BSA  
     4. Add antibody   
-        1.   
+        1.  
         2.   
         3.   
         4.  
