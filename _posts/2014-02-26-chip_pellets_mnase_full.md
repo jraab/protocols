@@ -1,3 +1,9 @@
+---
+title: ChIP from Frozen Pellets -MNase
+layout: default
+category: "protocols"
+--- 
+
 ChIP From Frozen Pellets - MNase Protocol (Full)
 --------
 **Version 1.0**  
